@@ -15,7 +15,7 @@ function updateLengthLabel() {
     // opsætte tegnsættene for adgangskoden
     let charSet = "";
     if (includeLowercase) {
-      charSet += "abcdefghijklmnopqrstuvwxyzæåø";
+      charSet += "abcdefghijklmnopqrstuvwxyz";
     }
     if (includeUppercase) {
       charSet += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
