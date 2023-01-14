@@ -1,0 +1,31 @@
+form {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input[type="range"] {
+  width: 80%;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #0080ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+}
+#passwordBox {
+  border: 1px solid black;
+  padding: 10px;
+}
