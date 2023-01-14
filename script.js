@@ -18,7 +18,7 @@ function updateLengthLabel() {
       charSet += "abcdefghijklmnopqrstuvwxyzæåø";
     }
     if (includeUppercase) {
-      charSet += "ABCDEFGHIJKLMNOPQRSTUVWXYZÆÅØ";
+      charSet += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     }
     if (includeNumbers) {
       charSet += "0123456789";
